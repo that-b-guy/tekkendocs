@@ -90,7 +90,7 @@ export const meta: MetaFunction = ({ matches }) => {
     matches,
     title: 'Dragunov Throw Break Practice | TekkenDocs',
     description:
-      'Practice breaking Dragunov throws with reaction time tracking',
+      'Practice breaking throws against Dragunov with reaction time tracking',
     url: '/t8/drag/throw-breaks',
   });
 };
